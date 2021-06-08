@@ -1,0 +1,6 @@
+/~gitignore
+/vendor
+.env
+main
+main.exe
+go.sum
